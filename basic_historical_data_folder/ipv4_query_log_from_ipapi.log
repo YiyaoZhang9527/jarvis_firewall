@@ -1,0 +1,12 @@
+{'status': 'fail', 'message': 'invalid query', 'query': 'country'}
+{'status': 'fail', 'message': 'invalid query', 'query': 'country'}
+{'status': 'success', 'country': 'China', 'countryCode': 'CN', 'region': 'AH', 'regionName': 'Anhui', 'city': 'Rongcheng', 'zip': '', 'lat': 30.6007, 'lon': 117.925, 'timezone': 'Asia/Shanghai', 'isp': 'Chinanet', 'org': 'Chinanet AH', 'as': 'AS4134 CHINANET-BACKBONE', 'query': '36.59.54.237'}
+{'status': 'success', 'country': 'China', 'countryCode': 'CN', 'region': 'GD', 'regionName': 'Guangdong', 'city': 'Shenzhen', 'zip': '', 'lat': 22.5431, 'lon': 114.058, 'timezone': 'Asia/Shanghai', 'isp': 'Shenzhen Tencent Computer Systems Company Limited', 'org': 'Tencent cloud computing (Beijing) Co., Ltd.', 'as': 'AS45090 Shenzhen Tencent Computer Systems Company Limited', 'query': '106.55.145.106'}
+{'status': 'fail', 'message': 'invalid query', 'query': 'country'}
+{'status': 'fail', 'message': 'invalid query', 'query': 'country'}
+{'status': 'success', 'country': 'China', 'countryCode': 'CN', 'region': 'AH', 'regionName': 'Anhui', 'city': 'Rongcheng', 'zip': '', 'lat': 30.6007, 'lon': 117.925, 'timezone': 'Asia/Shanghai', 'isp': 'Chinanet', 'org': 'Chinanet AH', 'as': 'AS4134 CHINANET-BACKBONE', 'query': '36.59.54.237'}
+{'status': 'success', 'country': 'China', 'countryCode': 'CN', 'region': 'GD', 'regionName': 'Guangdong', 'city': 'Shenzhen', 'zip': '', 'lat': 22.5431, 'lon': 114.058, 'timezone': 'Asia/Shanghai', 'isp': 'Shenzhen Tencent Computer Systems Company Limited', 'org': 'Tencent cloud computing (Beijing) Co., Ltd.', 'as': 'AS45090 Shenzhen Tencent Computer Systems Company Limited', 'query': '106.55.145.106'}
+{'status': 'fail', 'message': 'invalid query', 'query': 'country'}
+{'status': 'fail', 'message': 'invalid query', 'query': 'country'}
+{'status': 'success', 'country': 'China', 'countryCode': 'CN', 'region': 'AH', 'regionName': 'Anhui', 'city': 'Rongcheng', 'zip': '', 'lat': 30.6007, 'lon': 117.925, 'timezone': 'Asia/Shanghai', 'isp': 'Chinanet', 'org': 'Chinanet AH', 'as': 'AS4134 CHINANET-BACKBONE', 'query': '36.59.54.237'}
+{'status': 'success', 'country': 'China', 'countryCode': 'CN', 'region': 'GD', 'regionName': 'Guangdong', 'city': 'Shenzhen', 'zip': '', 'lat': 22.5431, 'lon': 114.058, 'timezone': 'Asia/Shanghai', 'isp': 'Shenzhen Tencent Computer Systems Company Limited', 'org': 'Tencent cloud computing (Beijing) Co., Ltd.', 'as': 'AS45090 Shenzhen Tencent Computer Systems Company Limited', 'query': '106.55.145.106'}

@@ -1,0 +1,10 @@
+ssh-keygen -t rsa -C HuaweiJumpServer -f ~/.ssh/HuaweiJumpServer9PC -b8192
+ssh-keygen -t rsa -C AliCrawlerServer -f ~/.ssh/AliCrawlerServer9PC -b8192
+ssh-keygen -t rsa -C TencentServer5M -f ~/.ssh/TencentServer5M9PC -b8192
+ssh-keygen -t rsa -C TencentServer1M -f ~/.ssh/TencentServer1M9PC -b8192
+ssh-keygen -t rsa -C TencentNetworkServer5M -f ~/.ssh/TencentNetworkServer5M9PC -b8192
+cat ~/.ssh/HuaweiJumpServer9PC.pub | ssh root@121.36.197.197 -p22 tee ~/.ssh/authorized_keys
+cat ~/.ssh/AliCrawlerServer9PC.pub | ssh root@47.114.143.177 -p22 tee ~/.ssh/authorized_keys
+cat ~/.ssh/TencentServer5M9PC.pub | ssh root@81.70.149.204 -p22 tee ~/.ssh/authorized_keys
+cat ~/.ssh/TencentServer1M9PC.pub | ssh root@82.156.122.38 -p22 tee ~/.ssh/authorized_keys
+cat ~/.ssh/TencentNetworkServer5M9PC.pub | ssh root@118.195.231.139 -p22 tee ~/.ssh/authorized_keys
